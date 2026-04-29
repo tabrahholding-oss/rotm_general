@@ -1,8 +1,8 @@
 app_name = "rotm_general"
-app_title = "Rotm General"
-app_publisher = "Hussain Farooq"
-app_description = "Rotm General"
-app_email = "hussain@tabrah-holding.com"
+app_title = "Run of the Mill General"
+app_publisher = "Hussain"
+app_description = "Run of the Mill General"
+app_email = "admin@admin.com"
 app_license = "mit"
 
 # Apps
@@ -15,7 +15,7 @@ app_license = "mit"
 # 	{
 # 		"name": "rotm_general",
 # 		"logo": "/assets/rotm_general/logo.png",
-# 		"title": "Rotm General",
+# 		"title": "Run of the Mill General",
 # 		"route": "/rotm_general",
 # 		"has_permission": "rotm_general.api.permission.has_app_permission"
 # 	}
@@ -241,9 +241,4 @@ app_license = "mit"
 # default_log_clearing_doctypes = {
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
-
-# Translation
-# ------------
-# List of apps whose translatable strings should be excluded from this app's translations.
-# ignore_translatable_strings_from = []
 
